@@ -1,7 +1,0 @@
-<layout id="MainLayout">
-    <label id="route" x="107" y="5" font="Gfx.FONT_SYSTEM_MEDIUM" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER"/>
-    <label id="direction" text="@Strings.direction" x="107" y="25" font="Gfx.FONT_MEDIUM" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER"/>
-    <label id="next0" x="107" y="55" font="Gfx.FONT_NUMBER_HOT" color="Gfx.COLOR_GREEN" justification="Gfx.TEXT_JUSTIFY_CENTER"/>
-    <label id="next1" x="107" y="115" font="Gfx.FONT_LARGE" color="Gfx.COLOR_GREEN" justification="Gfx.TEXT_JUSTIFY_CENTER" />
-    <label id="next2" x="107" y="145" font="Gfx.FONT_LARGE" color="Gfx.COLOR_GREEN" justification="Gfx.TEXT_JUSTIFY_CENTER" />
-</layout>

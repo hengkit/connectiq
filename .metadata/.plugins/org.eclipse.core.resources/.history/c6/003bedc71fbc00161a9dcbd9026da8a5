@@ -1,5 +1,0 @@
-class busRoute {
-	var name = "name";
-	var direction = "direction";
-	var next = new [3];
-}
