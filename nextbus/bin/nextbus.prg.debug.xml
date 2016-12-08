@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusView.mc" lineNum="6" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusView.mc" lineNum="7" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusView.mc" lineNum="11" pc="268435479" symbol="onLayout"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusView.mc" lineNum="12" pc="268435483" symbol="onLayout"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusView.mc" lineNum="18" pc="268435521" symbol="onShow"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusView.mc" lineNum="23" pc="268435526" symbol="onUpdate"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusView.mc" lineNum="24" pc="268435530" symbol="onUpdate"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusView.mc" lineNum="25" pc="268435549" symbol="onUpdate"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusView.mc" lineNum="26" pc="268435573" symbol="onUpdate"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusView.mc" lineNum="28" pc="268435593" symbol="onUpdate"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusView.mc" lineNum="29" pc="268435617" symbol="onUpdate"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusView.mc" lineNum="30" pc="268435643" symbol="onUpdate"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusView.mc" lineNum="31" pc="268435667" symbol="onUpdate"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusView.mc" lineNum="32" pc="268435693" symbol="onUpdate"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusView.mc" lineNum="33" pc="268435711" symbol="onUpdate"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusView.mc" lineNum="34" pc="268435738" symbol="onUpdate"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusView.mc" lineNum="35" pc="268435773" symbol="onUpdate"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusView.mc" lineNum="37" pc="268435800" symbol="onUpdate"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusView.mc" lineNum="40" pc="268435842" symbol="onUpdate"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusView.mc" lineNum="46" pc="268435863" symbol="onHide"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusApp.mc" lineNum="7" pc="268435868" symbol="initialize"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusApp.mc" lineNum="8" pc="268435872" symbol="initialize"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusApp.mc" lineNum="12" pc="268435891" symbol="onStart"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusApp.mc" lineNum="13" pc="268435895" symbol="onStart"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusApp.mc" lineNum="14" pc="268435902" symbol="onStart"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusApp.mc" lineNum="15" pc="268435909" symbol="onStart"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusApp.mc" lineNum="16" pc="268435916" symbol="onStart"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusApp.mc" lineNum="17" pc="268435944" symbol="onStart"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusApp.mc" lineNum="21" pc="268435991" symbol="onStop"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusApp.mc" lineNum="25" pc="268435996" symbol="getInitialView"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusApp.mc" lineNum="26" pc="268436000" symbol="getInitialView"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusApp.mc" lineNum="28" pc="268436038" symbol="onResponse"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusApp.mc" lineNum="29" pc="268436042" symbol="onResponse"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusApp.mc" lineNum="30" pc="268436053" symbol="onResponse"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusApp.mc" lineNum="32" pc="268436081" symbol="onResponse"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusApp.mc" lineNum="33" pc="268436122" symbol="onResponse"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusApp.mc" lineNum="34" pc="268436170" symbol="onResponse"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusApp.mc" lineNum="36" pc="268436192" symbol="onResponse"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusApp.mc" lineNum="38" pc="268436211" symbol="onResponse"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusApp.mc" lineNum="39" pc="268436218" symbol="onResponse"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusApp.mc" lineNum="40" pc="268436253" symbol="onResponse"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusApp.mc" lineNum="42" pc="268436293" symbol="onResponse"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusApp.mc" lineNum="43" pc="268436308" symbol="onResponse"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusApp.mc" lineNum="44" pc="268436342" symbol="onResponse"/>
+<entry filename="/Users/kit/Documents/workspace/nextbus/source/nextbusApp.mc" lineNum="47" pc="268436404" symbol="onResponse"/>
+<entry filename="Rez" lineNum="19" pc="268436425" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="21" pc="268436429" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="22" pc="268436562" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="23" pc="268436723" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="24" pc="268436856" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="25" pc="268436989" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="28" pc="268437122" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="8388826" symbol="next"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="12" symbol="direction"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="16" method="true" symbol="MainLayout"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="17" symbol="AppName"/>
+<entry id="10" object="true" symbol="nextbusApp"/>
+<entry field="true" id="8388892" symbol="name"/>
+<entry id="8389108" method="true" symbol="onResponse"/>
+<entry field="true" id="15" symbol="LauncherIcon"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="11" object="true" symbol="busRoute"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry id="14" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8389346" symbol="text"/>
+<entry id="8389063" symbol="identifier"/>
+<entry id="9" object="true" symbol="nextbusView"/>
+<entry id="13" module="true" symbol="Menus"/>
+<entry field="true" id="8" symbol="route"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435590" name="view" stackId="2" startPc="268435549"/>
+<entry endPc="268435842" name="x" stackId="4" startPc="268435711"/>
+<entry endPc="268435842" name="view" stackId="3" startPc="268435593"/>
+<entry endPc="268435990" name="service" stackId="3" startPc="268435895"/>
+<entry endPc="268435990" name="url" stackId="5" startPc="268435895"/>
+<entry endPc="268435990" name="stop" stackId="4" startPc="268435895"/>
+<entry endPc="268435990" name="agency" stackId="2" startPc="268435895"/>
+<entry endPc="268436404" name="x" stackId="4" startPc="268436308"/>
+<entry endPc="268436420" name="limit" stackId="3" startPc="268436053"/>
+<entry endPc="268437179" name="rez_cmp_local_bitmap_next2" stackId="6" startPc="268436429"/>
+<entry endPc="268437179" name="rez_cmp_local_bitmap_next1" stackId="5" startPc="268436429"/>
+<entry endPc="268437179" name="rez_cmp_local_bitmap_next0" stackId="4" startPc="268436429"/>
+<entry endPc="268437179" name="rez_cmp_local_bitmap_direction" stackId="3" startPc="268436429"/>
+<entry endPc="268437179" name="rez_cmp_local_bitmap_route" stackId="2" startPc="268436429"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="nextbusView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="nextbusView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="nextbusView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="nextbusView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="nextbusView">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="nextbusApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="nextbusApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="nextbusApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="nextbusApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onResponse" parent="nextbusApp">
+<param id="responseCode"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

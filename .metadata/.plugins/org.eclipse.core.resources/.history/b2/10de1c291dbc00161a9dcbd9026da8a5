@@ -1,0 +1,41 @@
+using Toybox.WatchUi as Ui;
+using Toybox.Communications as Comm;
+using Toybox.Application as App;
+using Toybox.Graphics as Gfx;
+var route =  new busRoute();
+class nextbusView extends Ui.View {
+
+    function initialize() {
+    System.println("view.Initialize");
+        View.initialize();
+    }
+
+    // Load your resources here
+    function onLayout(dc) {
+    System.println("view.onLayout");
+        setLayout(Rez.Layouts.MainLayout(dc));
+    }
+
+    // Called when this View is brought to the foreground. Restore
+    // the state of this View and prepare it to be shown. This includes
+    // loading resources into memory.
+    function onShow() {
+		System.println("view.onShow");
+
+    }
+
+	
+    // Update the view
+    function onUpdate(dc) {
+        // Call the parent onUpdate function to redraw the layout
+        System.println("view.onupdate");
+        View.onUpdate(dc);
+    }
+
+    // Called when this View is removed from the screen. Save the
+    // state of this View here. This includes freeing resources from
+    // memory.
+    function onHide() {
+    }
+
+}

@@ -1,0 +1,8 @@
+<layout id="MainLayout">
+    <label identifier="route" x="105" y="15" font="Gfx.FONT_MEDIUM" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER"/>
+    <label id="direction" x="105" y="30" font="Gfx.FONT_MEDIUM" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER"/>
+    <label text="3 min" x="105" y="60" font="Gfx.FONT_LARGE" color="Gfx.COLOR_DK_RED" justification="Gfx.TEXT_JUSTIFY_CENTER"/>
+    <label text="6 min" x="105" y="90" font="Gfx.FONT_LARGE" color="Gfx.COLOR_DK_GREEN" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+    <label text="9 min" x="105" y="120" font="Gfx.FONT_LARGE" color="Gfx.COLOR_DK_GREEN" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+    
+</layout>

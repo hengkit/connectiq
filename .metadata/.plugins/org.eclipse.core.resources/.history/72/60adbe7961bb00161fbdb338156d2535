@@ -1,0 +1,4 @@
+<layout id="MainLayout">
+    <label text="L Taraval" x="15" y="15" font="Gfx.FONT_LARGE" color="Gfx.COLOR_RED" />
+    <label text="Your information goes here." x="10" y="25" font="Gfx.FONT_MEDIUM" color="Gfx.COLOR_DK_GRAY" />
+</layout>

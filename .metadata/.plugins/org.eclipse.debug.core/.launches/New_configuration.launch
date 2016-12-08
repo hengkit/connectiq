@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="connectiq.launcher.AppLauncher">
+<stringAttribute key="connectiq.debugInfo" value="/Users/kit/Documents/workspace/nextbus/bin/nextbus.prg.debug.xml"/>
+<stringAttribute key="connectiq.prg" value="/Users/kit/Documents/workspace/nextbus/bin/nextbus.prg"/>
+<stringAttribute key="connectiq.project" value="nextbus"/>
+<stringAttribute key="connectiq.targetDevice" value="fr230"/>
+<stringAttribute key="connectiq.targetSdk" value="1.3.1"/>
+<stringAttribute key="connectiq.workingDir" value="/Users/kit/Documents/workspace/nextbus"/>
+</launchConfiguration>
